@@ -1,0 +1,12 @@
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\bin\Debug\net7.0\BankingLibrary.deps.json
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\bin\Debug\net7.0\BankingLibrary.dll
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\bin\Debug\net7.0\BankingLibrary.pdb
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\obj\Debug\net7.0\BankingLibrary.csproj.AssemblyReference.cache
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\obj\Debug\net7.0\BankingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\obj\Debug\net7.0\BankingLibrary.AssemblyInfoInputs.cache
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\obj\Debug\net7.0\BankingLibrary.AssemblyInfo.cs
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\obj\Debug\net7.0\BankingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\obj\Debug\net7.0\BankingLibrary.dll
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\obj\Debug\net7.0\refint\BankingLibrary.dll
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\obj\Debug\net7.0\BankingLibrary.pdb
+C:\Users\SAHU JI\Documents\C-Sharp Practice\JenkinsDemo\BankingLibrary\obj\Debug\net7.0\ref\BankingLibrary.dll
